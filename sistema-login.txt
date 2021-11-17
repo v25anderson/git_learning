@@ -1,2 +1,4 @@
 user
 senha
+idade
+lol
